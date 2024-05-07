@@ -4,7 +4,7 @@ task
 
 ## Installation
 
-Install project dependencies with npm
+Clone the project form github into your local machine
 
 ```bash
   git clone https://github.com/shrikant9024/thence-task.git
